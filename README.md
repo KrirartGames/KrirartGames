@@ -1,4 +1,4 @@
-- Hi, we are @KrirartGames
+- Hi, we are Krirart Games
 - We are interested in developing games
 - Feel free to reach us on:
 - Twitter - @krirartgames
